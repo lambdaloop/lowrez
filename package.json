@@ -1,0 +1,29 @@
+{
+  "name": "zoom-lowrez-puzzle",
+  "version": "1.0.0",
+  "description": "",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lambdaloop/zoom-lowrez-puzzle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lambdaloop/zoom-lowrez-puzzle/issues"
+  },
+  "homepage": "https://github.com/lambdaloop/zoom-lowrez-puzzle#readme",
+  "devDependencies": {
+    "@webpack-cli/serve": "^0.2.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "command-line-args": "^5.1.1",
+    "phaser": "^3.24.1"
+  }
+}
