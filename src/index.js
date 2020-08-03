@@ -13,7 +13,7 @@ var config = {
         create: create,
         update: update
     },
-    zoom: 12
+    zoom: 8
 };
 
 var game = new Phaser.Game(config);
@@ -67,7 +67,7 @@ function zoom(amount) {
     obj.camera.setZoom(newZoom);
     console.log(obj.camera.displayWidth)
 
-    // adjust camera to display world but focus on player
+    // adjust camera to display world but focus on player2
 }
 
 function movePlayer(dx, dy) {
