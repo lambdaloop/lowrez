@@ -13,3 +13,5 @@ yarn-error.log*
 .eslintcache
 
 /dist/main.js
+yarn.lock
+package.lock
