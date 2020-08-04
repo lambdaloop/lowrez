@@ -24,7 +24,7 @@
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
-    "phaser": "~3.11.0",
+    "phaser": "~3.16.0",
     "phaser3-autotile": "^0.2.1",
     "yarn": "^1.22.4"
   }
